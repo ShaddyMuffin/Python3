@@ -7,4 +7,3 @@ if int(noofcake)>=noofcake:
     print(noofcake)
 else:
     print(int(noofcake)+1)
-
